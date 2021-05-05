@@ -1,0 +1,22 @@
+Ariketak:
+	Flujos TCP
+	MTU 
+	Trama Aztertzekoak
+	Helbideratzea
+	Subnetting
+		FLSM
+		VLSM
+	Supernetting
+	Bideratzea
+
+Azkarrak:
+	Checksum
+	IP (Baliodun edo ez)
+	IPv6 (Konprimitu eta deskonprimitu)
+	Parekidetasuna
+	BER
+	
+Protokolo:
+	HTTPS
+	NAT
+	DHCP
